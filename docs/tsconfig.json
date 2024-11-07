@@ -1,20 +1,22 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "module": "ESNext",
-    "moduleResolution": "Node",
-    "resolveJsonModule": true,
-    "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "noImplicitAny": false,
-    "skipLibCheck": true,
-    "lib": ["DOM"],
-    "paths": {},
-    "types": ["vite/client"],
-    "jsx": "preserve"
+    "target": "ESNext", // Specifies the ECMAScript target version
+    "module": "CommonJS", // Specifies the module system
+    "strict": true, // Enable all strict type-checking options
+    "esModuleInterop": true, // Enables interoperability between CommonJS and ES Modules
+    "moduleResolution": "node", // Specifies module resolution strategy
+    "skipLibCheck": true, // Skip type checking of declaration files
+    "forceConsistentCasingInFileNames": true, // Ensure consistent casing in file names
+    "outDir": "./dist", // Output directory for compiled files
+    "rootDir": "./src", // Root directory of input files
+    "sourceMap": true, // Generate source maps for debugging
+    "baseUrl": ".", // Base directory to resolve non-relative module names
+    "paths": {
+      "@/*": ["src/*"] // Alias for importing files
+    },
+    "lib": ["ESNext", "DOM"], // Include library files for the target environment
+    "jsx": "preserve" // Preserve JSX syntax for Vue files
   },
-  "include": ["**/*", ".vitepress/**/*"],
-  "exclude": ["node_modules"]
+  "include": ["src/**/*"], // Include all files in the src directory
+  "exclude": ["node_modules", "dist"] // Exclude node_modules and dist directories
 }

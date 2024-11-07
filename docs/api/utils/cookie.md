@@ -35,7 +35,7 @@ declare function getCookie(key: string): string | undefined
 ```ts
 import { getCookie } from '@plus-pro-components/utils'
 
-getCookie('username') // name
+getCookie('KooSoo1') // name
 ```
 
 ## removeCookie

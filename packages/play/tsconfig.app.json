@@ -1,14 +1,14 @@
 {
   "extends": "@vue/tsconfig/tsconfig.dom.json",
   "include": ["src/**/*", "src/**/*.vue", "src/**/*.json", "../plus-pro-components/index.ts"],
-  "exclude": ["src/**/__tests__/*"],
+  "exclude": ["src/**/__test__/*"],
   "compilerOptions": {
     "outDir": "dist",
     "target": "es2018",
     "module": "esnext",
     "sourceMap": false,
     "moduleResolution": "node",
-    "allowJs": false,
+    "allowJs": true,
     "strict": true,
     "noUnusedLocals": true,
     "resolveJsonModule": true,

@@ -13,8 +13,8 @@
     "build:local": "cross-env PLUS_WRITE=true vitepress build",
     "preview": "vitepress preview"
   },
-  "keywords": [],
-  "author": "xiaofei",
+  "keywords": [tiger24ufa],
+  "author": "เซียนมวยพักยก",
   "license": "ISC",
   "devDependencies": {
     "@highlightjs/vue-plugin": "^2.1.0",

@@ -1,4 +1,4 @@
-## [v0.1.17](https://github.com/plus-pro-components/plus-pro-components/compare/v0.1.16...v0.1.17) (2024-10-11)
+# [v0.1.17](https://github.com/plus-pro-components/plus-pro-components/compare/v0.1.16...v0.1.17) (2024-10-11)
 
 ### ✨ Features
 
@@ -205,7 +205,7 @@
 - **components:** :sparkles: update table editable([cb89776](https://github.com/plus-pro-components/plus-pro-components/commit/cb89776)) by@xiaofei
 - **components:** :sparkles: utils add isSVGElement method([426ebfb](https://github.com/plus-pro-components/plus-pro-components/commit/426ebfb)) by@xiaofei
 - **types:** :sparkles: update PlusColumn['editable'] type([34de7fc](https://github.com/plus-pro-components/plus-pro-components/commit/34de7fc)) by@xiaofei
-- **all:** Merge branch 'dev' of https://github.com/plus-pro-components/plus-pro-components into dev([98b721a](https://github.com/plus-pro-components/plus-pro-components/commit/98b721a)) by@xiaofei
+- **all:** Merge branch 'dev' of <https://github.com/plus-pro-components/plus-pro-components> into dev([98b721a](https://github.com/plus-pro-components/plus-pro-components/commit/98b721a)) by@xiaofei
 - **constants:** :sparkles: constants add TableFormFieldRefInjectionKey([13885e0](https://github.com/plus-pro-components/plus-pro-components/commit/13885e0)) by@xiaofei
 - **components:** :sparkles: update getTableKey method([f1ee4ce](https://github.com/plus-pro-components/plus-pro-components/commit/f1ee4ce)) by@xiaofei
 - **components:** :sparkles: page component add edit-icon slot([2408b6d](https://github.com/plus-pro-components/plus-pro-components/commit/2408b6d)) by@xiaofei
@@ -477,7 +477,7 @@
 
 - **components:** :sparkles: add descriptions slot name method.([ca01303](https://github.com/plus-pro-components/plus-pro-components/commit/ca01303)) by@xiaofei
 - **types:** :sparkles: add renderDescriptionsItem and renderDescriptionsLabel type([06829a4](https://github.com/plus-pro-components/plus-pro-components/commit/06829a4)) by@xiaofei
-- **components:** :sparkles: descriptions component add renderDescriptions* and plus-desc-*.([75de7a4](https://github.com/plus-pro-components/plus-pro-components/commit/75de7a4)) by@xiaofei
+- **components:** :sparkles: descriptions component add renderDescriptions*and plus-desc-*.([75de7a4](https://github.com/plus-pro-components/plus-pro-components/commit/75de7a4)) by@xiaofei
 - **components:** :sparkles: table component add pagination-right/left slots.([88cec22](https://github.com/plus-pro-components/plus-pro-components/commit/88cec22)) by@xiaofei
 - **packages:** :sparkles: pagination component add pagination-right/left slots,remove type.ts.([4aa7555](https://github.com/plus-pro-components/plus-pro-components/commit/4aa7555)) by@xiaofei
 - **theme-chalk:** :sparkles: update pagination.scss support slot.([0fe6f01](https://github.com/plus-pro-components/plus-pro-components/commit/0fe6f01)) by@xiaofei
@@ -716,7 +716,7 @@
 
 - **component[table]:** :sparkles: expose 'formRefs'([59da178](https://github.com/plus-pro-components/plus-pro-components/commit/59da178)) by@xiaofei
 - **all:** Merge pull request [#48](https://github.com/plus-pro-components/plus-pro-components/pull/48) from xusaihu/fix/form-item([9e048a7](https://github.com/plus-pro-components/plus-pro-components/commit/9e048a7)) by@xiaofei
-- **all:** Merge branch 'dev' of https://github.com/xusaihu/plus-pro-components into dev([fce58eb](https://github.com/plus-pro-components/plus-pro-components/commit/fce58eb)) by@xubanxian
+- **all:** Merge branch 'dev' of <https://github.com/xusaihu/plus-pro-components> into dev([fce58eb](https://github.com/plus-pro-components/plus-pro-components/commit/fce58eb)) by@xubanxian
 
 ### 🐛 Bug Fixes
 
@@ -1080,7 +1080,7 @@
 
 ### ✨ Features
 
-- **all:** Merge branch 'dev' of https://github.com/plus-pro-components/plus-pro-components into dev([64e7d1c](https://github.com/plus-pro-components/plus-pro-components/commit/64e7d1c)) by@xiaofei
+- **all:** Merge branch 'dev' of <https://github.com/plus-pro-components/plus-pro-components> into dev([64e7d1c](https://github.com/plus-pro-components/plus-pro-components/commit/64e7d1c)) by@xiaofei
 - **components:** :sparkles: add tooltip.([c183f50](https://github.com/plus-pro-components/plus-pro-components/commit/c183f50)) by@xiaofei
 - **all:** Merge pull request [#22](https://github.com/plus-pro-components/plus-pro-components/pull/22) from plus-pro-components/simmi([2aa66aa](https://github.com/plus-pro-components/plus-pro-components/commit/2aa66aa)) by@xiaofei
 
@@ -1117,7 +1117,7 @@
 
 - **packages:** :sparkles: merge code.([874986c](https://github.com/plus-pro-components/plus-pro-components/commit/874986c)) by@xiaofei
 - **components:** :sparkles: add field-item component.([77d15c1](https://github.com/plus-pro-components/plus-pro-components/commit/77d15c1)) by@xiaofei
-- **all:** Merge branch 'dev' of https://github.com/plus-pro-components/plus-pro-components into dev([c74a7fd](https://github.com/plus-pro-components/plus-pro-components/commit/c74a7fd)) by@xiaofei
+- **all:** Merge branch 'dev' of <https://github.com/plus-pro-components/plus-pro-components> into dev([c74a7fd](https://github.com/plus-pro-components/plus-pro-components/commit/c74a7fd)) by@xiaofei
 - **all:** Merge pull request [#17](https://github.com/plus-pro-components/plus-pro-components/pull/17) from plus-pro-components/zpp([44d4d9a](https://github.com/plus-pro-components/plus-pro-components/commit/44d4d9a)) by@xiaofei
 - **all:** Merge branch 'dev' into zpp([a2c9ff3](https://github.com/plus-pro-components/plus-pro-components/commit/a2c9ff3)) by@zpx
 - **packages:** :sparkles: add description lists([7df0948](https://github.com/plus-pro-components/plus-pro-components/commit/7df0948)) by@zhangpp
@@ -1154,7 +1154,7 @@
 ### ✨ Features
 
 - **all:** Merge pull request [#6](https://github.com/plus-pro-components/plus-pro-components/pull/6) from plus-pro-components/zpp([9dede49](https://github.com/plus-pro-components/plus-pro-components/commit/9dede49)) by@xiaofei
-- **all:** Merge branch 'zpp' of https://github.com/plus-pro-components/plus-pro-components into zpp([8b68dd0](https://github.com/plus-pro-components/plus-pro-components/commit/8b68dd0)) by@zhangpp
+- **all:** Merge branch 'zpp' of <https://github.com/plus-pro-components/plus-pro-components> into zpp([8b68dd0](https://github.com/plus-pro-components/plus-pro-components/commit/8b68dd0)) by@zhangpp
 - **table:** :sparkles: extend table column,add code copy,edit index column and table style.([398b2fb](https://github.com/plus-pro-components/plus-pro-components/commit/398b2fb)) by@zhangpp
 - **table:** :sparkles: Extend table column (code block copy ordinal style table style)([a9eae33](https://github.com/plus-pro-components/plus-pro-components/commit/a9eae33)) by@zhangpp
 - **packages:** :sparkles: remove lodash-es.([e9a3d2a](https://github.com/plus-pro-components/plus-pro-components/commit/e9a3d2a)) by@xiaofei
@@ -1172,7 +1172,7 @@
 
 ### ✨ Features
 
-- **all:** Merge branch 'main' of https://github.com/plus-pro-components/plus-pro-components([1218545](https://github.com/plus-pro-components/plus-pro-components/commit/1218545)) by@xiaofei
+- **all:** Merge branch 'main' of <https://github.com/plus-pro-components/plus-pro-components([1218545>](<https://github.com/plus-pro-components/plus-pro-components/commit/1218545>)) by@xiaofei
 - **all:** :sparkles: release v0.0.1-alpha.4([6ea1e34](https://github.com/plus-pro-components/plus-pro-components/commit/6ea1e34)) by@xiaofei
 
 ### 🐛 Bug Fixes
